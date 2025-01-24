@@ -1,1 +1,1 @@
-{"labelColorDict": {"bug": "#d73a4a", "maa": "#d876e3", "release": "#e4e669"}}
+{"P2": {"labels": ["download"], "postTitle": "\u4e0b\u8f7d\u65b9\u5f0f", "postUrl": "post/xia-zai-fang-shi.html", "createdDate": "2025-01-25", "dateLabelColor": "#0969da"}, "P1": {"labels": ["release", "maa"], "postTitle": "5.0.0", "postUrl": "post/5.0.0.html", "createdDate": "2025-01-25", "dateLabelColor": "#0969da"}, "labelColorDict": {"bug": "#d73a4a", "download": "#132DDB", "maa": "#d876e3", "release": "#e4e669"}}
