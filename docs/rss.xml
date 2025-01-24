@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://weinibuliu.github.io</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://weinibuliu.github.io</link></image><lastBuildDate>Fri, 24 Jan 2025 19:13:11 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.12.3</title><link>https://weinibuliu.github.io/post/v5.12.3.html</link><description>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://weinibuliu.github.io</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://weinibuliu.github.io</link></image><lastBuildDate>Fri, 24 Jan 2025 19:15:58 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.12.3</title><link>https://weinibuliu.github.io/post/v5.12.3.html</link><description>
 # v5.12.3
 - 更新来源
 **https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/v5.12.3**
@@ -44,41 +44,4 @@
 详见 **[下载方式]({DONWLOAD_ISSUE_URL})**
 
 ## 关于 | About
-- Maa-Mirror 与 Maa 无隶属关系，**不代表 Maa 开发团队**。</description><guid isPermaLink="true">https://weinibuliu.github.io/post/v5.12.3.html</guid><pubDate>Fri, 24 Jan 2025 19:08:27 +0000</pubDate></item><item><title>v5.12.3</title><link>https://weinibuliu.github.io/post/v5.12.3.html</link><description>
-# v5.12.3
-
-## 更新说明 | Release Note
-### 停不下来了 | Highlight
-
-* Base navigation fixes for the overseas clients
-
-### 新增 | New
-
-* 繁中服更新活動導航'懷黍離' (#11592) @XuQingTW
-
-### 修复 | Fix
-
-* 繁中服-生息演算中，完成生存週期畫面、大地圖畫面卡住 (#11649) @momomochi987
-* 繁中服 生息演算讀檔畫面卡住 (#11646) @momomochi987
-* 基建修复4 识别不到缩小状态下的后两个宿舍 @ABA2396
-* 38c8dd8 68357b9 modified base tasks in Official. Global needs custom ROI to work @Constrat
-* 380bf68 modified Base Infrast Siege for all clients. Reverting for global and co. @Constrat
-
-### 文档 | Docs
-
-* README 移除 MaaX，更换前端仓库地址 (#11636) @Rbqwow
-
-### 其他 | Other
-
-* 補上繁中服的加工站、訓練室相關內容 (#11648) @momomochi987
-* 调整基建宿舍阈值 @ABA2396
-* 调整基建发电站阈值 @ABA2396
-
-**Full Changelog**: [v5.12.2 -&gt; v5.12.3](https://github.com/MaaAssistantArknights/MaaAssistantArknights/compare/v5.12.2...v5.12.3)
-
-
-## 下载地址 | Download
-详见 **[下载方式]({DONWLOAD_ISSUE_URL})**
-
-## 关于 | About
-- Maa-Mirror 与 Maa 无隶属关系，**不代表 Maa 开发团队**。</description><guid isPermaLink="true">https://weinibuliu.github.io/post/v5.12.3.html</guid><pubDate>Fri, 24 Jan 2025 16:52:04 +0000</pubDate></item><item><title>下载方式</title><link>https://weinibuliu.github.io/post/xia-zai-fang-shi.html</link><description>- [阿里网盘 -分流1](https://www.alipan.com/s/6rwyxzWUVf5)。</description><guid isPermaLink="true">https://weinibuliu.github.io/post/xia-zai-fang-shi.html</guid><pubDate>Fri, 24 Jan 2025 16:02:23 +0000</pubDate></item><item><title>公告栏</title><link>https://weinibuliu.github.io/post/gong-gao-lan.html</link><description>暂无公告。</description><guid isPermaLink="true">https://weinibuliu.github.io/post/gong-gao-lan.html</guid><pubDate>Fri, 24 Jan 2025 16:00:54 +0000</pubDate></item></channel></rss>
+- Maa-Mirror 与 Maa 无隶属关系，**不代表 Maa 开发团队**。</description><guid isPermaLink="true">https://weinibuliu.github.io/post/v5.12.3.html</guid><pubDate>Fri, 24 Jan 2025 19:08:27 +0000</pubDate></item><item><title>下载方式</title><link>https://weinibuliu.github.io/post/xia-zai-fang-shi.html</link><description>- [阿里网盘 -分流1](https://www.alipan.com/s/6rwyxzWUVf5)。</description><guid isPermaLink="true">https://weinibuliu.github.io/post/xia-zai-fang-shi.html</guid><pubDate>Fri, 24 Jan 2025 16:02:23 +0000</pubDate></item><item><title>公告栏</title><link>https://weinibuliu.github.io/post/gong-gao-lan.html</link><description>暂无公告。</description><guid isPermaLink="true">https://weinibuliu.github.io/post/gong-gao-lan.html</guid><pubDate>Fri, 24 Jan 2025 16:00:54 +0000</pubDate></item></channel></rss>
