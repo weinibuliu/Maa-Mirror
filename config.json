@@ -7,5 +7,5 @@
     "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
     "needComment": 0,
     "showPostSource": 1,
-    "urlMode": "issue"
+    "urlMode": "pinyin"
 }
