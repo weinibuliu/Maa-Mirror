@@ -1,7 +1,7 @@
 {
     "title": "Maa Mirror",
     "subTitle": "为 Maa(MaaAssistantArknights) 提供国内网盘分流。",
-    "displayTitle": "Maa Mirror",
+    "homeUrl": ".",
     "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
     "GMEEK_VERSION": "last",
     "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
