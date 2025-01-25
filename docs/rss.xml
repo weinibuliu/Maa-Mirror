@@ -1,5 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://weinibuliu.github.io</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://weinibuliu.github.io</link></image><lastBuildDate>Sat, 25 Jan 2025 10:37:39 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.12.3</title><link>https://weinibuliu.github.io/post/14.html</link><description>- **[更新来源](https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/v5.12.3)**
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://weinibuliu.github.io</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://weinibuliu.github.io</link></image><lastBuildDate>Sat, 25 Jan 2025 10:57:19 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.12.3</title><link>https://weinibuliu.github.io/post/15.html</link><description>- **[更新来源](https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/v5.12.3)**
+
+## 更新日志 | Release Note
+&lt;details&gt;
+
+&lt;summary&gt;点击查看&lt;/summary&gt;
+
+### 停不下来了 | Highlight
+
+* Base navigation fixes for the overseas clients
+
+### 新增 | New
+
+* 繁中服更新活動導航'懷黍離' (#11592)  By XuQingTW
+
+### 修复 | Fix
+
+* 繁中服-生息演算中，完成生存週期畫面、大地圖畫面卡住 (#11649)  By momomochi987
+* 繁中服 生息演算讀檔畫面卡住 (#11646)  By momomochi987
+* 基建修复4 识别不到缩小状态下的后两个宿舍  By ABA2396
+* 38c8dd8 68357b9 modified base tasks in Official. Global needs custom ROI to work  By Constrat
+* 380bf68 modified Base Infrast Siege for all clients. Reverting for global and co.  By Constrat
+
+### 文档 | Docs
+
+* README 移除 MaaX，更换前端仓库地址 (#11636)  By Rbqwow
+
+### 其他 | Other
+
+* 補上繁中服的加工站、訓練室相關內容 (#11648)  By momomochi987
+* 调整基建宿舍阈值  By ABA2396
+* 调整基建发电站阈值  By ABA2396
+
+**Full Changelog**: [v5.12.2 -&gt; v5.12.3](https://github.com/MaaAssistantArknights/MaaAssistantArknights/compare/v5.12.2...v5.12.3)
+
+
+&lt;/details&gt;
+
+### 下载地址 | Download
+详见 **[下载方式](https://weinibuliu.github.io/post/2.html)**
+
+# 关于 MAA | About MAA
+- [官网](https://maa.plus)
+- [Github](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+- [用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)
+
+## 关于我们 | About Us
+- **Maa-Mirror 与 Maa 无隶属关系，不代表 Maa 开发团队**。</description><guid isPermaLink="true">https://weinibuliu.github.io/post/15.html</guid><pubDate>Sat, 25 Jan 2025 10:56:56 +0000</pubDate></item><item><title>v5.12.3</title><link>https://weinibuliu.github.io/post/14.html</link><description>- **[更新来源](https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/v5.12.3)**
 
 ## 更新日志 | Release Note
 &lt;details&gt;
