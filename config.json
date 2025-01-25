@@ -2,6 +2,7 @@
     "title": "Maa Mirror",
     "subTitle": "为 Maa(MaaAssistantArknights) 提供国内网盘分流。",
     "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
+    "homeUrl": "https://www.mmirror.top",
     "GMEEK_VERSION": "last",
     "singlePage": [
         "about",
