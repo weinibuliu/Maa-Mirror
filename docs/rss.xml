@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://www.mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://www.mmirror.top</link></image><lastBuildDate>Sun, 26 Jan 2025 18:12:35 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.12.3</title><link>https://www.mmirror.top/post/19.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://www.mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://www.mmirror.top</link></image><lastBuildDate>Sun, 26 Jan 2025 18:13:52 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.12.3</title><link>https://www.mmirror.top/post/19.html</link><description>## 更新日志 | Release Note
 &lt;details&gt;
 
 &lt;summary&gt;点击查看&lt;/summary&gt;
@@ -50,4 +50,6 @@
 
 &gt;[!NOTE]
 因阿里云盘相关限制，无法直接分享压缩文件，故使用 7zip 进行二次压缩。</description><guid isPermaLink="true">https://www.mmirror.top/download.html</guid><pubDate>Fri, 24 Jan 2025 16:02:23 +0000</pubDate></item><item><title>关于我们</title><link>https://www.mmirror.top/about.html</link><description>## 声明 
-- **Maa-Mirror 与 Maa 无隶属关系，不代表 Maa 开发团队。</description><guid isPermaLink="true">https://www.mmirror.top/about.html</guid><pubDate>Sat, 25 Jan 2025 16:05:07 +0000</pubDate></item></channel></rss>
+
+&gt;[!IMPORTANT]
+&gt;- **Maa-Mirror 与 Maa 无隶属关系，不代表 Maa 开发团队。</description><guid isPermaLink="true">https://www.mmirror.top/about.html</guid><pubDate>Sat, 25 Jan 2025 16:05:07 +0000</pubDate></item></channel></rss>
