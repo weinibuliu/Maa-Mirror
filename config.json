@@ -4,6 +4,7 @@
     "avatarUrl": "https://github.githubassets.com/favicons/favicon.svg",
     "homeUrl": "https://www.mmirror.top",
     "startSite": "01/27/2025",
+    "email": "weinibuliu@outlook.com",
     "GMEEK_VERSION": "last",
     "singlePage": [
         "about",
@@ -17,7 +18,7 @@
     "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
     "needComment": 0,
     "showPostSource": 1,
-    "urlMode": "issue",
+    "urlMode": "pinyin",
     "nightTheme": "dark_dimmed",
     "indexStyle": "<style>\n.avatar {display: none}\n#buttonRSS {display: none}\n</style>"
 }
