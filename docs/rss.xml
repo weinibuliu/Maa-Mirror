@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://www.mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://www.mmirror.top</link></image><lastBuildDate>Wed, 29 Jan 2025 12:08:05 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.12.3</title><link>https://www.mmirror.top/post/v5.12.3.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://www.mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://www.mmirror.top</link></image><lastBuildDate>Wed, 29 Jan 2025 12:18:58 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.12.3</title><link>https://www.mmirror.top/post/v5.12.3.html</link><description>## 更新日志 | Release Note
 &lt;details&gt;
 
 &lt;summary&gt;点击查看&lt;/summary&gt;
@@ -49,57 +49,7 @@
 
 ## 注意事项 | Note
 &gt; [!IMPORTANT]
-&gt; - Maa-Mirror 仅提供国内网盘分流，不受理 Maa 使用相关问题，请移步 **[MAA 用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)** 。</description><guid isPermaLink="true">https://www.mmirror.top/post/v5.12.3.html</guid><pubDate>Wed, 29 Jan 2025 12:07:23 +0000</pubDate></item><item><title>v5.12.3</title><link>https://www.mmirror.top/post/v5.12.3.html</link><description>## 更新日志 | Release Note
-&lt;details&gt;
-
-&lt;summary&gt;点击查看&lt;/summary&gt;
-
-### 停不下来了 | Highlight
-
-* Base navigation fixes for the overseas clients
-
-### 新增 | New
-
-* 繁中服更新活動導航'懷黍離' (#11592)  By XuQingTW
-
-### 修复 | Fix
-
-* 繁中服-生息演算中，完成生存週期畫面、大地圖畫面卡住 (#11649)  By momomochi987
-* 繁中服 生息演算讀檔畫面卡住 (#11646)  By momomochi987
-* 基建修复4 识别不到缩小状态下的后两个宿舍  By ABA2396
-* 38c8dd8 68357b9 modified base tasks in Official. Global needs custom ROI to work  By Constrat
-* 380bf68 modified Base Infrast Siege for all clients. Reverting for global and co.  By Constrat
-
-### 文档 | Docs
-
-* README 移除 MaaX，更换前端仓库地址 (#11636)  By Rbqwow
-
-### 其他 | Other
-
-* 補上繁中服的加工站、訓練室相關內容 (#11648)  By momomochi987
-* 调整基建宿舍阈值  By ABA2396
-* 调整基建发电站阈值  By ABA2396
-
-**Full Changelog**: [v5.12.2 -&gt; v5.12.3](https://github.com/MaaAssistantArknights/MaaAssistantArknights/compare/v5.12.2...v5.12.3)
-
-
-&lt;/details&gt;
-
-## 下载地址 | Download
-- **[Maa-Mirror](https://mmirror.top/download.html)**
-- [Github](https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/v5.12.3)
-
-## 关于 MAA | About MAA
-- **[官网](https://maa.plus)**
-- **[Github 仓库](https://github.com/MaaAssistantArknights/MaaAssistantArknights)**
-- **[用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)**
-
-## 关于我们 | About Maa-Mirror
-- **[关于我们](https://www.mmirror.top/about.html)**
-
-## 注意事项 | Note
-&gt; [!IMPORTANT]
-&gt; - Maa-Mirror 仅提供国内网盘分流，不受理 Maa 使用相关问题，请移步 **[MAA 用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)** 。</description><guid isPermaLink="true">https://www.mmirror.top/post/v5.12.3.html</guid><pubDate>Mon, 27 Jan 2025 08:10:19 +0000</pubDate></item><item><title>公告</title><link>https://www.mmirror.top/post/gong-gao.html</link><description>暂无公告。</description><guid isPermaLink="true">https://www.mmirror.top/post/gong-gao.html</guid><pubDate>Fri, 24 Jan 2025 16:00:54 +0000</pubDate></item><item><title>下载方式</title><link>https://www.mmirror.top/download.html</link><description>- **[阿里云盘](https://www.alipan.com/s/6rwyxzWUVf5)**
+&gt; - Maa-Mirror 仅提供国内网盘分流，不受理 Maa 使用相关问题，请移步 **[MAA 用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)** 。</description><guid isPermaLink="true">https://www.mmirror.top/post/v5.12.3.html</guid><pubDate>Wed, 29 Jan 2025 12:07:23 +0000</pubDate></item><item><title>公告</title><link>https://www.mmirror.top/post/gong-gao.html</link><description>暂无公告。</description><guid isPermaLink="true">https://www.mmirror.top/post/gong-gao.html</guid><pubDate>Fri, 24 Jan 2025 16:00:54 +0000</pubDate></item><item><title>下载方式</title><link>https://www.mmirror.top/download.html</link><description>- **[阿里云盘](https://www.alipan.com/s/6rwyxzWUVf5)**
 - **[百度网盘](https://pan.baidu.com/s/1lOnJu2zMYypEihfWcJdkpA?pwd=3axb#list/path=%2F)**
 
 &gt;[!NOTE]
