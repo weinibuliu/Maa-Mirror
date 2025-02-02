@@ -1,25 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://www.mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://www.mmirror.top</link></image><lastBuildDate>Sun, 02 Feb 2025 20:04:54 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>公告</title><link>https://www.mmirror.top/post/gong-gao.html</link><description>## **Mirror 酱** 介绍 (2025/02/03)
-**[Mirror  酱](https://mirrorc.top)** 现为 MAA 提供**有偿**更新服务。</description><guid isPermaLink="true">https://www.mmirror.top/post/gong-gao.html</guid><pubDate>Sun, 02 Feb 2025 19:38:52 +0000</pubDate></item><item><title>资源更新</title><link>https://www.mmirror.top/post/zi-yuan-geng-xin.html</link><description>## 资源信息 | Resource Info
-- 资源版本: 相见欢
-- 资源日期: 2025-01-28 13:44:17.011000+08:00
-
-## 下载地址 | Download
-&gt; 镜像更新时间: 2025-02-03 04:04:25+08:00
-
-- **[Maa-Mirror](https://mmirror.top/download.html)**
-
-## 关于 MAA | About MAA
-- **[官网](https://maa.plus)**
-- **[Github 仓库](https://github.com/MaaAssistantArknights/MaaAssistantArknights)**
-- **[用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)**
-
-## 关于我们 | About Maa-Mirror
-- **[关于我们](https://www.mmirror.top/about.html)**
-
-## 注意事项 | Note
-&gt; [!IMPORTANT]
-&gt; - Maa-Mirror 仅提供国内网盘分流，不受理 Maa 使用相关问题，请移步 **[MAA 用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)** 。</description><guid isPermaLink="true">https://www.mmirror.top/post/zi-yuan-geng-xin.html</guid><pubDate>Sun, 02 Feb 2025 18:59:55 +0000</pubDate></item><item><title>v5.13.0-beta.4</title><link>https://www.mmirror.top/post/v5.13.0-beta.4.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://www.mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://www.mmirror.top</link></image><lastBuildDate>Sun, 02 Feb 2025 20:39:32 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.13.0-beta.4</title><link>https://www.mmirror.top/post/v5.13.0-beta.4.html</link><description>## 更新日志 | Release Note
 &lt;details&gt;
 
 &lt;summary&gt;点击查看&lt;/summary&gt;
@@ -108,6 +88,10 @@
 &lt;/details&gt;
 
 ## 下载地址 | Download
+&gt; MAA 更新时间 | 镜像更新时间
+&gt; --- | ---
+&gt; 2025-02-03 02:00:33+08:00 | 2025-02-03 04:36:18+08:00
+
 - **[Maa-Mirror](https://mmirror.top/download.html)**
 - [Github](https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/v5.13.0-beta.4)
 
@@ -121,90 +105,15 @@
 
 ## 注意事项 | Note
 &gt; [!IMPORTANT]
-&gt; - Maa-Mirror 仅提供国内网盘分流，不受理 Maa 使用相关问题，请移步 **[MAA 用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)** 。</description><guid isPermaLink="true">https://www.mmirror.top/post/v5.13.0-beta.4.html</guid><pubDate>Sun, 02 Feb 2025 18:29:25 +0000</pubDate></item><item><title>v5.13.0-beta.3</title><link>https://www.mmirror.top/post/v5.13.0-beta.3.html</link><description>## 更新日志 | Release Note
-&lt;details&gt;
-
-&lt;summary&gt;点击查看&lt;/summary&gt;
-
-### 改进 | Improved
-* 优化存亡之战部署策略 (#11706)  By Black1312
-
-### 修复 | Fix
-
-* 公招勾选使用加急许可时任务失败 (fix return value of RecruitImageAnalyzer)  By horror-proton
-* 肉鸽开局干员使用助战失效  By status102
-* 肉鸽烧水使用分队失效  By status102
-* 自动战斗开始战斗时使用理智药检测失效  By status102
-
-### 其他 | Other
-
-* 更新日志支持惯性运动  By ABA2396
-
-## v5.13.0-beta.2
-
-### 新增 | New
-
-* 繁中服「懷黍離」導航入口更動 (#11662)  By momomochi987
-* 添加 MirrorChyan 资源更新方式 (#11669)  By ABA2396  By MistEO
-* 适配新 ui 未进驻选项  By ABA2396
-* 添加不期而遇新事件空无前兆 (#11573)  By DavidWang19
-
-### 改进 | Improved
-
-* 萨卡兹肉鸽不期而遇统一使用默认策略 (#11512)  By Daydreamer114
-* 小工具-仓库识别 隐藏黑边  By ABA2396
-
-### 修复 | Fix
-
-* MaaCore日志(asst.log)滚动修复，并上调阈值至64MiB (#11670)  By status102
-* Wpf肉鸽烧水时使用分队UI为空  By status102
-* 肉鸽临时招募预备干员时, 不额外提升权重 (#11442)  By Daydreamer114
-* 公告窗口触控板滚动异常 (#11684)  By Rbqwow
-* 肉鸽作战编队截图过快导致截图与实际不符 (#11527)  By Daydreamer114
-* 肉鸽烧水未获得目标奖励逻辑补漏  By status102
-* 幸运墙领取奖励界面识别过早  By status102
-* JP 干员识别 艾雅法拉 (#11685)  By Saratoga-Official  By status102  By Daydreamer114
-
-### 文档 | Docs
-
-* 推荐分辨率720P或1080P (#11651)  By Rbqwow
-* 替换.NET8 桌面运行时下载链接为直链 (#11693)  By wryx166
-* 肉鸽推荐开局策略 (#11570)  By Rbqwow  By Constrat
-
-### 其他 | Other
-
-* Attempt retry once screencap for MumuExtras (#11550)  By teldd1
-* 临时处理肉鸽烧水flag异常  By status102
-* mirror-chyan notify error  By MistEO
-* missing `user_agent` param for mirrorchyan query  By MistEO
-* styling  By Constrat
-* mirrorchyan toast  By MistEO
-* 简化肉鸽任务使用助战参数内部存储流程  By status102
-* 添加资源更新提示翻译  By ABA2396
-* 将Sarkaz开局添加负荷干员的进入任务改为范围点击 (#11100)  By Daydreamer114
-* discord link for website docs (#11687)  By Constrat  By momomochi987  By Rbqwow
-* Discord link in About Us  By Constrat
-* en announcement wpf logic  By Constrat
-* Mirror酱说明调整  By status102
-* NoSkland 放到 wpf 内部  By ABA2396
-* 密钥改成 PasswordBox  By ABA2396
-* remove chinese punctuation from en  By Constrat
-* 调整肉鸽选择烧水奖励任务链，重新将Roguelike By LastRewardConfirm并入主任务链 (#11689)  By status102
-* add discord link to main readme  By Constrat
-* 修改划火柴设置界面布局 (#11682)  By Rbqwow
-* WpfGui划火柴相关说明调整  By status102
-* Revert 'perf: 肉鸽优先拿美愿 (#11558)' (#11565)  By Daydreamer114
-* 调整基建办公室阈值  By ABA2396
-* 调整 InfrastBottomLeftTab 的 specificRect  By ABA2396
-
-**Full Changelog**: [v5.13.0-beta.2 -&gt; v5.13.0-beta.3](https://github.com/MaaAssistantArknights/MaaAssistantArknights/compare/v5.13.0-beta.2...v5.13.0-beta.3)
-
-
-&lt;/details&gt;
+&gt; - Maa-Mirror 仅提供国内网盘分流，不受理 Maa 使用相关问题，请移步 **[MAA 用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)** 。</description><guid isPermaLink="true">https://www.mmirror.top/post/v5.13.0-beta.4.html</guid><pubDate>Sun, 02 Feb 2025 20:36:19 +0000</pubDate></item><item><title>公告</title><link>https://www.mmirror.top/post/gong-gao.html</link><description>## **Mirror 酱** 介绍 (2025/02/03)
+**[Mirror  酱](https://mirrorc.top)** 现为 MAA 提供**有偿**更新服务。</description><guid isPermaLink="true">https://www.mmirror.top/post/gong-gao.html</guid><pubDate>Sun, 02 Feb 2025 19:38:52 +0000</pubDate></item><item><title>资源更新</title><link>https://www.mmirror.top/post/zi-yuan-geng-xin.html</link><description>## 资源信息 | Resource Info
+- 资源版本: 相见欢
+- 资源日期: 2025-01-28 13:44:17.011000+08:00
 
 ## 下载地址 | Download
+&gt; 镜像更新时间: 2025-02-03 04:36:20+08:00
+
 - **[Maa-Mirror](https://mmirror.top/download.html)**
-- [Github](https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/v5.13.0-beta.3)
 
 ## 关于 MAA | About MAA
 - **[官网](https://maa.plus)**
@@ -216,87 +125,7 @@
 
 ## 注意事项 | Note
 &gt; [!IMPORTANT]
-&gt; - Maa-Mirror 仅提供国内网盘分流，不受理 Maa 使用相关问题，请移步 **[MAA 用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)** 。</description><guid isPermaLink="true">https://www.mmirror.top/post/v5.13.0-beta.3.html</guid><pubDate>Sun, 02 Feb 2025 17:08:21 +0000</pubDate></item><item><title>v5.13.0-beta.2</title><link>https://www.mmirror.top/post/v5.13.0-beta.2.html</link><description>## 更新日志 | Release Note
-&lt;details&gt;
-
-&lt;summary&gt;点击查看&lt;/summary&gt;
-
-### 新增 | New
-
-* 添加 MirrorChyan 资源更新方式 (#11669)  By ABA2396  By MistEO
-* discord link for website docs (#11687)  By Constrat  By momomochi987  By Rbqwow
-* Discord link in About Us  By Constrat
-* 适配新 ui 未进驻选项  By ABA2396
-* en announcement wpf logic  By Constrat
-
-### 改进 | Improved
-
-* mirrorchyan toast  By MistEO
-* 简化肉鸽任务使用助战参数内部存储流程  By status102
-* 添加资源更新提示翻译  By ABA2396
-* 将Sarkaz开局添加负荷干员的进入任务改为范围点击 (#11100)  By Daydreamer114
-* 萨卡兹肉鸽不期而遇统一使用默认策略 (#11512)  By Daydreamer114
-* 小工具-仓库识别 隐藏黑边  By ABA2396
-
-### 修复 | Fix
-
-* mirror-chyan notify error  By MistEO
-* missing `user_agent` param for mirrorchyan query  By MistEO
-* Wpf肉鸽烧水时使用分队UI为空  By status102
-* 肉鸽临时招募预备干员时, 不额外提升权重 (#11442)  By Daydreamer114
-* 公告窗口触控板滚动异常 (#11684)  By Rbqwow
-* styling  By Constrat
-* 添加不期而遇新事件空无前兆 (#11573)  By DavidWang19
-* Attempt retry once screencap for MumuExtras (#11550)  By teldd1
-* 肉鸽作战编队截图过快导致截图与实际不符 (#11527)  By Daydreamer114
-* 肉鸽烧水未获得目标奖励逻辑补漏  By status102
-* 幸运墙领取奖励界面识别过早  By status102
-* 临时处理肉鸽烧水flag异常  By status102
-
-### 文档 | Docs
-
-* Auto Update Changelogs of v5.13.0-beta.1 (#11703)  By github-actions[bot]  By Constrat
-* 推荐分辨率720P或1080P (#11651)  By Rbqwow
-* 替换.NET8 桌面运行时下载链接为直链 (#11693)  By wryx166
-* 肉鸽推荐开局策略 (#11570)  By Rbqwow  By Constrat
-
-### 其他 | Other
-
-* Mirror酱说明调整  By status102
-* NoSkland 放到 wpf 内部  By ABA2396
-* 任务执行期间Log Rotate增加检查，并上调阈值至64MiB (#11670)  By status102
-* 密钥改成 PasswordBox  By ABA2396
-* remove chinese punctuation from en  By Constrat
-* JP 艾雅法拉 ocrReplace (#11685)  By Saratoga-Official  By status102  By Daydreamer114
-* 调整肉鸽选择烧水奖励任务链，重新将Roguelike By LastRewardConfirm并入主任务链 (#11689)  By status102
-* add discord link to main readme  By Constrat
-* 修改划火柴设置界面布局 (#11682)  By Rbqwow
-* WpfGui划火柴相关说明调整  By status102
-* Revert 'perf: 肉鸽优先拿美愿 (#11558)' (#11565)  By Daydreamer114
-* 繁中服「懷黍離」導航入口更動 (#11662)  By momomochi987
-* 调整基建办公室阈值  By ABA2396
-* 调整 InfrastBottomLeftTab 的 specificRect  By ABA2396
-
-**Full Changelog**: [v5.12.3 -&gt; v5.13.0-beta.2](https://github.com/MaaAssistantArknights/MaaAssistantArknights/compare/v5.12.3...v5.13.0-beta.2)
-
-
-&lt;/details&gt;
-
-## 下载地址 | Download
-- **[Maa-Mirror](https://mmirror.top/download.html)**
-- [Github](https://github.com/MaaAssistantArknights/MaaAssistantArknights/releases/v5.13.0-beta.2)
-
-## 关于 MAA | About MAA
-- **[官网](https://maa.plus)**
-- **[Github 仓库](https://github.com/MaaAssistantArknights/MaaAssistantArknights)**
-- **[用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)**
-
-## 关于我们 | About Maa-Mirror
-- **[关于我们](https://www.mmirror.top/about.html)**
-
-## 注意事项 | Note
-&gt; [!IMPORTANT]
-&gt; - Maa-Mirror 仅提供国内网盘分流，不受理 Maa 使用相关问题，请移步 **[MAA 用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)** 。</description><guid isPermaLink="true">https://www.mmirror.top/post/v5.13.0-beta.2.html</guid><pubDate>Sun, 02 Feb 2025 11:02:28 +0000</pubDate></item><item><title>下载方式</title><link>https://www.mmirror.top/download.html</link><description>- **[阿里云盘](https://www.alipan.com/s/6Cc13KeDYyT)**
+&gt; - Maa-Mirror 仅提供国内网盘分流，不受理 Maa 使用相关问题，请移步 **[MAA 用户 QQ 群](https://ota.maa.plus/MaaAssistantArknights/api/qqgroup)** 。</description><guid isPermaLink="true">https://www.mmirror.top/post/zi-yuan-geng-xin.html</guid><pubDate>Sun, 02 Feb 2025 18:59:55 +0000</pubDate></item><item><title>下载方式</title><link>https://www.mmirror.top/download.html</link><description>- **[阿里云盘](https://www.alipan.com/s/6Cc13KeDYyT)**
 - **[百度网盘](https://pan.baidu.com/s/1lOnJu2zMYypEihfWcJdkpA?pwd=3axb#list/path=%2F)**
 
 &gt;[!NOTE]
