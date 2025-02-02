@@ -18,6 +18,8 @@
     "needComment": 0,
     "showPostSource": 1,
     "urlMode": "pinyin",
+    "themeMode": "fix",
+    "dayTheme": "dark_dimmed",
     "nightTheme": "dark_dimmed",
     "indexStyle": "<style>\n.avatar {display: none}\n#buttonRSS {display: none}\n</style>"
 }
