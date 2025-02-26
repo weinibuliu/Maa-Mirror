@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://www.mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://www.mmirror.top</link></image><lastBuildDate>Wed, 26 Feb 2025 19:35:58 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>公告</title><link>https://www.mmirror.top/post/gong-gao.html</link><description>## **Mirror酱** 介绍 (2025/02/27)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://www.mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内网盘分流。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://www.mmirror.top</link></image><lastBuildDate>Wed, 26 Feb 2025 19:39:35 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>公告</title><link>https://www.mmirror.top/post/gong-gao.html</link><description>## **Mirror酱** 介绍 (2025/02/27)
 **[Mirror酱](https://mirrorchyan.com)** 现为 MAA 提供 ***非免费*** 更新服务。</description><guid isPermaLink="true">https://www.mmirror.top/post/gong-gao.html</guid><pubDate>Sun, 02 Feb 2025 19:38:52 +0000</pubDate></item><item><title>资源更新</title><link>https://www.mmirror.top/post/zi-yuan-geng-xin.html</link><description>## 资源信息 | Resource Info
 - 资源版本: 我们明日见
 - 资源日期: 2025-02-21 04:06:26.308+08:00
@@ -7,13 +7,13 @@
 ## 下载地址 | Download
 &gt;[!IMPORTANT]
 &gt; 资源分流将保持最新，Maa-Mirror 不会提供其历史版本。</description><guid isPermaLink="true">https://www.mmirror.top/post/zi-yuan-geng-xin.html</guid><pubDate>Sun, 02 Feb 2025 18:59:55 +0000</pubDate></item><item><title>下载方式</title><link>https://www.mmirror.top/download.html</link><description>### MAA  本体下载
-#### Cloudflare Workers
 
-|架构|下载地址|
-|---|---|
-|Windows X64|[Cloudflare Workers](maa.mmirror.top?arch=win-x64)|
-|Windows Arm64|[Cloudflare Workers](maa.mmirror.top?arch=win-arm64)|
-&gt;Cloudflare Workers 将始终指向当前最新版本(包括测试版)。</description><guid isPermaLink="true">https://www.mmirror.top/download.html</guid><pubDate>Fri, 24 Jan 2025 16:02:23 +0000</pubDate></item><item><title>关于我们</title><link>https://www.mmirror.top/about.html</link><description>## 声明 
+#### Cloudflare Workers
+|架构|下载地址|备注|
+|---|---|---|
+|Windows X64|[Cloudflare Workers](https://maa.mmirror.top?arch=win-x64)| 
+|Windows Arm64|[Cloudflare Workers](https://maa.mmirror.top?arch=win-arm64)|
+&gt;Cloudflare Workers 将始终指向当前最新版本(含测试版)。</description><guid isPermaLink="true">https://www.mmirror.top/download.html</guid><pubDate>Fri, 24 Jan 2025 16:02:23 +0000</pubDate></item><item><title>关于我们</title><link>https://www.mmirror.top/about.html</link><description>## 声明 
 
 &gt;[!IMPORTANT]
 &gt;- **Maa-Mirror 与 Maa 无隶属关系，不代表 Maa 开发团队。</description><guid isPermaLink="true">https://www.mmirror.top/about.html</guid><pubDate>Sat, 25 Jan 2025 16:05:07 +0000</pubDate></item></channel></rss>
