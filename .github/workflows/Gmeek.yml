@@ -1,9 +1,17 @@
 name: build Gmeek
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'config.json'
+
   issues:
     types: [closed]
+
+  workflow_dispatch:
+
 
 jobs:
   build:
