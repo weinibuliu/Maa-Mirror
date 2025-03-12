@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Mon, 10 Mar 2025 17:42:02 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.14.0-beta.4</title><link>https://mmirror.top/post/v5.14.0-beta.4.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Wed, 12 Mar 2025 05:43:21 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.14.0</title><link>https://mmirror.top/post/v5.14.0.html</link><description>## 更新日志 | Release Note
+&gt; MAA 更新时间 | 镜像更新时间
+&gt; --- | ---
+&gt; 2025-03-12 13:14:34+08:00 | 2025-03-12 13:42:38+08:00
+
+&lt;details&gt;
+
+&lt;summary&gt;点击查看&lt;/summary&gt;
+
+### Highlight
+
+在这个版本，我们继续对基建、萨卡兹肉鸽等部分的问题进行修正，并且开始探讨新的更新模式，敬请期待！
+
+#### 加解密失败通知
+
+从以前的版本更新到最近几个版本的用户，可能会遇到以下情况：
+
+&gt; 每次打开 MAA，都会收到系统通知，提示“加解密失败，请重新配置相关设置，否则加密内容将以明文形式存储在配置文件中。</description><guid isPermaLink="true">https://mmirror.top/post/v5.14.0.html</guid><pubDate>Wed, 12 Mar 2025 05:42:39 +0000</pubDate></item><item><title>v5.14.0-beta.4</title><link>https://mmirror.top/post/v5.14.0-beta.4.html</link><description>## 更新日志 | Release Note
 &gt; MAA 更新时间 | 镜像更新时间
 &gt; --- | ---
 &gt; 2025-03-09 21:19:47+08:00 | 2025-03-09 21:38:04+08:00
