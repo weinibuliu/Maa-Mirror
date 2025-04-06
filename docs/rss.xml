@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Mon, 31 Mar 2025 13:33:37 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.15.0-beta.1</title><link>https://mmirror.top/post/v5.15.0-beta.1.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Sun, 06 Apr 2025 17:23:11 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.15.0-beta.2</title><link>https://mmirror.top/post/v5.15.0-beta.2.html</link><description>## 更新日志 | Release Note
+&gt; MAA 更新时间 | 镜像更新时间
+&gt; --- | ---
+&gt; 2025-04-07 00:50:28+08:00 | 2025-04-07 01:22:25+08:00
+
+&lt;details&gt;
+
+&lt;summary&gt;点击查看&lt;/summary&gt;
+
+### Highlight
+
+#### 国服导航更新
+
+[官方动态](https://www.bilibili.com/opus/1052289926969688064)
+
+4.7 号国服导航更新，合并了主题曲、插曲、别传、故事集，终端下面的样式也改了，预计除了 `当前/上次` 和 `资源导航`（改过 roi，可能能用，但也可能用不了）之外的关卡都会用不了。</description><guid isPermaLink="true">https://mmirror.top/post/v5.15.0-beta.2.html</guid><pubDate>Sun, 06 Apr 2025 17:22:26 +0000</pubDate></item><item><title>v5.15.0-beta.1</title><link>https://mmirror.top/post/v5.15.0-beta.1.html</link><description>## 更新日志 | Release Note
 &gt; MAA 更新时间 | 镜像更新时间
 &gt; --- | ---
 &gt; 2025-03-31 20:48:44+08:00 | 2025-03-31 21:32:51+08:00
