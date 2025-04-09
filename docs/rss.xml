@@ -1,5 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Tue, 08 Apr 2025 03:06:02 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.15.0-beta.2</title><link>https://mmirror.top/post/v5.15.0-beta.2.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Wed, 09 Apr 2025 04:52:30 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.15.0</title><link>https://mmirror.top/post/v5.15.0.html</link><description>## 更新日志 | Release Note
+&gt; MAA 更新时间 | 镜像更新时间
+&gt; --- | ---
+&gt; 2025-04-09 12:37:41+08:00 | 2025-04-09 12:51:51+08:00
+
+&lt;details&gt;
+
+&lt;summary&gt;点击查看&lt;/summary&gt;
+
+### Highlight
+
+本次更新我们带来了全新的导航系统与视觉体验升级，并持续优化错误反馈机制，让牛牛更聪明更贴心！
+
+#### 主线导航系统更新
+
+国服新版 UI 导航系统已实装适配（注：第 15 章与 OF-1 因关卡结构特殊暂未支持导航），例如 `1-7`、`R8-11`、`12-17 磨难` 均支持自动导航到关卡。</description><guid isPermaLink="true">https://mmirror.top/post/v5.15.0.html</guid><pubDate>Wed, 09 Apr 2025 04:51:52 +0000</pubDate></item><item><title>v5.15.0-beta.2</title><link>https://mmirror.top/post/v5.15.0-beta.2.html</link><description>## 更新日志 | Release Note
 &gt; MAA 更新时间 | 镜像更新时间
 &gt; --- | ---
 &gt; 2025-04-07 00:50:28+08:00 | 2025-04-07 01:22:25+08:00
