@@ -1,5 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Thu, 24 Apr 2025 07:58:37 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.15.2</title><link>https://mmirror.top/post/v5.15.2.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Thu, 24 Apr 2025 16:34:59 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.15.3</title><link>https://mmirror.top/post/v5.15.3.html</link><description>## 更新日志 | Release Note
+&gt; MAA 更新时间 | 镜像更新时间
+&gt; --- | ---
+&gt; 2025-04-25 00:09:39+08:00 | 2025-04-25 00:34:25+08:00
+
+&lt;details&gt;
+
+&lt;summary&gt;点击查看&lt;/summary&gt;
+
+### 主要更新 | Highlight
+
+#### 博士，新罗德岛已经准备好了！
+
+随着第 15 章加入【终端 - 曲谱 - 乐章】，牛牛也支持对其的关卡导航了。</description><guid isPermaLink="true">https://mmirror.top/post/v5.15.3.html</guid><pubDate>Thu, 24 Apr 2025 16:34:26 +0000</pubDate></item><item><title>v5.15.2</title><link>https://mmirror.top/post/v5.15.2.html</link><description>## 更新日志 | Release Note
 &gt; MAA 更新时间 | 镜像更新时间
 &gt; --- | ---
 &gt; 2025-04-17 01:34:52+08:00 | 2025-04-17 01:58:26+08:00
