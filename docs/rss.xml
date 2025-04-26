@@ -1,5 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Sat, 26 Apr 2025 15:58:43 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.15.4</title><link>https://mmirror.top/post/v5.15.4.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Sat, 26 Apr 2025 19:39:43 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.15.5</title><link>https://mmirror.top/post/v5.15.5.html</link><description>## 更新日志 | Release Note
+&gt; MAA 更新时间 | 镜像更新时间
+&gt; --- | ---
+&gt; 2025-04-27 03:23:48+08:00 | 2025-04-27 03:39:00+08:00
+
+&lt;details&gt;
+
+&lt;summary&gt;点击查看&lt;/summary&gt;
+
+### 主要更新 | Highlight
+
+支持了六周年月卡的自动领取！现在只要在“领取奖励”中勾选“领取周年赠送月卡奖励”，牛牛就会帮你自动领取啦~
+
+---
+
+以下是详细内容：
+
+### 新增 | New
+
+* 六周年月卡 `@`SherkeyXD
+* VC++可用性检查 (#12445) `@`status102
+
+### 修复 | Fix
+
+* 给 5.15.4 擦屁股 `@`ABA2396
+* YostarKR OrundumActivitiesConfirm add ocrReplace `@`HX3N
+* missing roguelike sami writer to json for resource updater `@`Constrat
+* 定时执行tooltip修正 (#12453) `@`BxFS
+* main.cpp post refactor merge `@`Constrat
+* txwy resource updater recruitment `@`Constrat
+
+### 文档 | Docs
+
+* add ADB connection tip for bluestacks and ldplayer `@`Constrat
+
+### 其他 | Other
+
+* meojson调试增强 `@`status102
+* YostarKR IS5 squads and ocr update (#12455) `@`HX3N
+* Revert 'chore: Auto Update Game Resources - 2025-04-25' `@`Constrat
+* use sami json for gain and user ocr in resource updater `@`Constrat
+* YostarKR ocr fix `@`Constrat
+* add big tasks refactoring to blame ignore `@`Constrat
+* remove duplicate tasks from main json of KR and JP `@`Constrat
+* remove debug task from IS EN `@`Constrat
+* YostarJP IS5 squads update `@`Constrat
+* tasks (#12448) `@`Constrat `@`SherkeyXD
+* to utc time `@`ABA2396
+* remove dupes from resource updater I.S. stages `@`Constrat
+* add more text for OrundumActivities EN `@`Constrat
+
+**Full Changelog**: [v5.15.4 -&gt; v5.15.5](https://github.com/MaaAssistantArknights/MaaAssistantArknights/compare/v5.15.4...v5.15.5)
+
+
+&lt;/details&gt;
+
+## 下载地址 | Download
+- **[Maa-Mirror](https://maa.mmirror.top/arch=win-x64?ver=v5.15.5)**
+&gt; 上述地址将指向 Win-x64 架构下载。</description><guid isPermaLink="true">https://mmirror.top/post/v5.15.5.html</guid><pubDate>Sat, 26 Apr 2025 19:39:00 +0000</pubDate></item><item><title>v5.15.4</title><link>https://mmirror.top/post/v5.15.4.html</link><description>## 更新日志 | Release Note
 &gt; MAA 更新时间 | 镜像更新时间
 &gt; --- | ---
 &gt; 2025-04-26 23:37:22+08:00 | 2025-04-26 23:58:10+08:00
