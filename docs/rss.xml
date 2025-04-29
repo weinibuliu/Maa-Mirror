@@ -1,5 +1,41 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Mon, 28 Apr 2025 13:07:14 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.15.6</title><link>https://mmirror.top/post/v5.15.6.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Tue, 29 Apr 2025 14:47:24 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.16.0-beta.1</title><link>https://mmirror.top/post/v5.16.0-beta.1.html</link><description>## 更新日志 | Release Note
+&gt; MAA 更新时间 | 镜像更新时间
+&gt; --- | ---
+&gt; 2025-04-29 22:28:27+08:00 | 2025-04-29 22:46:40+08:00
+
+&lt;details&gt;
+
+&lt;summary&gt;点击查看&lt;/summary&gt;
+
+### 新增 | New
+
+* 适配基建队列轮换与干员休整 (#11252) `@`Lemon-miaow `@`ABA2396
+* 优化技能识别模型 (#11984) `@`Plumess `@`ABA2396
+
+### 改进 | Improved
+
+* 修改小游戏描述 `@`Daydreamer114
+
+### 修复 | Fix
+
+* RecruitSupportOperator 拼写错误 `@`ABA2396
+* vc++ 检测移动至文件检测后 `@`ABA2396
+* EN RoutingRefreshNode dimension too large (#12484) `@`BxFS
+* KR RoutingRefreshNode dimension too large (#12487) `@`HX3N
+
+### 其他 | Other
+
+* ignore templates for global `@`Constrat
+
+**Full Changelog**: [v5.15.6 -&gt; v5.16.0-beta.1](https://github.com/MaaAssistantArknights/MaaAssistantArknights/compare/v5.15.6...v5.16.0-beta.1)
+
+
+&lt;/details&gt;
+
+## 下载地址 | Download
+- **[Maa-Mirror](https://maa.mmirror.top/arch=win-x64?ver=v5.16.0-beta.1)**
+&gt; 上述地址将指向 Win-x64 架构下载。</description><guid isPermaLink="true">https://mmirror.top/post/v5.16.0-beta.1.html</guid><pubDate>Tue, 29 Apr 2025 14:46:40 +0000</pubDate></item><item><title>v5.15.6</title><link>https://mmirror.top/post/v5.15.6.html</link><description>## 更新日志 | Release Note
 &gt; MAA 更新时间 | 镜像更新时间
 &gt; --- | ---
 &gt; 2025-04-28 20:11:25+08:00 | 2025-04-28 21:06:24+08:00
