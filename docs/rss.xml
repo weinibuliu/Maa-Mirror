@@ -1,5 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Sun, 11 May 2025 10:34:02 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.16.4</title><link>https://mmirror.top/post/v5.16.4.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Wed, 14 May 2025 15:48:04 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.16.5</title><link>https://mmirror.top/post/v5.16.5.html</link><description>## 更新日志 | Release Note
+&gt; MAA 更新时间 | 镜像更新时间
+&gt; --- | ---
+&gt; 2025-05-14 23:22:58+08:00 | 2025-05-14 23:47:22+08:00
+
+&lt;details&gt;
+
+&lt;summary&gt;点击查看&lt;/summary&gt;
+
+### 新增 | New
+
+* Mac新增基建配置 `@`hguandl
+* 特征匹配 (#10966) `@`status102
+* 绿票、黄票、活动商店 (#12586) `@`Daydreamer114 `@`status102 `@`ABA2396
+
+### 改进 | Improved
+
+* 调整连战输出 `@`ABA2396
+* 肉鸽不期而遇退出检测加个重试 `@`status102
+
+### 修复 | Fix
+
+* 修复MaaCore asst.log文件句柄泄露 (#12639) `@`status102
+* 修复了屎遇上手动覆盖文件的大聪明爆炸的问题 `@`ABA2396
+* 凹开局干员直升精二选项显示时机错误 `@`ABA2396
+* 连战次数乘号匹配失败 `@`status102
+* store underfunded ocr full match `@`Daydreamer114
+
+### 文档 | Docs
+
+* 任务流color_scales注释优化 `@`status102
+
+### 其他 | Other
+
+* yellow ticket items `@`Daydreamer114
+* ocrTask text `@`status102
+* Store`@`UnderfundedOCR `@`Daydreamer114
+* 再铲一屎 `@`status102
+* cache 移动逻辑 `@`ABA2396
+* ubuntu unused `@`status102
+* 铲屎 `@`status102
+* 指定类型 `@`status102
+* store loading `@`Daydreamer114
+* Revert 'feat: 在肉鸽招募中增加m3作为群奶 (#12353)' `@`Saratoga-Official
+* 简化代码 `@`ABA2396
+* 提示补全 `@`status102
+* NumberReplace `@`status102
+* 再次调整官网细节 `@`MistEO
+* 调整官网标题 `@`MistEO
+* Revert 'fix: github change string to int (#12574)' `@`Daydreamer114
+* 绿票、黄票、活动商店-国际服适配 (#12674) `@`Daydreamer114
+* mark `@`status102
+* 调整 UI 与 Core 版本不一致的解决方案提示 `@`ABA2396
+* 点击任意职业回正列表 `@`ABA2396
+* 基建先进行技能识别并返回列表首位，再清空选择 `@`ABA2396
+
+**Full Changelog**: [v5.16.4 -&gt; v5.16.5](https://github.com/MaaAssistantArknights/MaaAssistantArknights/compare/v5.16.4...v5.16.5)
+
+[已有 Mirror酱 CDK？前往 Mirror酱 高速下载](https://mirrorchyan.com/zh/projects?rid=MAA)
+
+
+&lt;/details&gt;
+
+## 下载地址 | Download
+- **[Maa-Mirror](https://maa.mmirror.top/arch=win-x64?ver=v5.16.5)**
+&gt; 上述地址将指向 Win-x64 架构下载。</description><guid isPermaLink="true">https://mmirror.top/post/v5.16.5.html</guid><pubDate>Wed, 14 May 2025 15:47:23 +0000</pubDate></item><item><title>v5.16.4</title><link>https://mmirror.top/post/v5.16.4.html</link><description>## 更新日志 | Release Note
 &gt; MAA 更新时间 | 镜像更新时间
 &gt; --- | ---
 &gt; 2025-05-11 18:12:09+08:00 | 2025-05-11 18:33:21+08:00
