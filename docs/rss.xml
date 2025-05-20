@@ -1,5 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Tue, 20 May 2025 09:47:26 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.16.6</title><link>https://mmirror.top/post/v5.16.6.html</link><description>## 更新日志 | Release Note
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Maa Mirror</title><link>https://mmirror.top</link><description>为 Maa(MaaAssistantArknights) 提供国内下载方式。</description><copyright>Maa Mirror</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://mmirror.top</link></image><lastBuildDate>Tue, 20 May 2025 17:44:20 +0000</lastBuildDate><managingEditor>Maa Mirror</managingEditor><ttl>60</ttl><webMaster>Maa Mirror</webMaster><item><title>v5.16.7</title><link>https://mmirror.top/post/v5.16.7.html</link><description>## 更新日志 | Release Note
+&gt; MAA 更新时间 | 镜像更新时间
+&gt; --- | ---
+&gt; 2025-05-21 01:12:21+08:00 | 2025-05-21 01:43:30+08:00
+
+&lt;details&gt;
+
+&lt;summary&gt;点击查看&lt;/summary&gt;
+
+### 改进 | Improved
+
+* 选择 Mirror酱 更新渠道更新软件版本但未填写 cdk 时 Fallback 至海外源 `@`ABA2396
+* 优化 Placeholder 提示 `@`ABA2396
+* 优化检查更新逻辑 `@`ABA2396
+* 自动战斗编队优化干员识别, 修复roi未包含完整干员名 (#12740) `@`status102 `@`pre-commit-ci[bot]
+
+### 修复 | Fix
+
+* 使用理智药超限后减少后无法确认使用理智药 `@`status102
+* Mac修复Mirror酱资源更新问题 `@`hguandl
+
+### 其他 | Other
+
+* wpf版本不一致仅允许DebugVersion `@`status102
+* 地图截图改用 jpeg `@`ABA2396
+* 使用理智药后状态未能更新 `@`status102
+* 自动战斗循环 BattleStartPre retry 3次 `@`ABA2396
+* task schema update `@`SherkeyXD
+* 调整战斗列表说明 `@`status102
+* 调整界面提示 `@`ABA2396
+
+**Full Changelog**: [v5.16.6 -&gt; v5.16.7](https://github.com/MaaAssistantArknights/MaaAssistantArknights/compare/v5.16.6...v5.16.7)
+
+[已有 Mirror酱 CDK？前往 Mirror酱 高速下载](https://mirrorchyan.com/zh/projects?rid=MAA)
+
+
+&lt;/details&gt;
+
+## 下载地址 | Download
+- **[Maa-Mirror](https://maa.mmirror.top/arch=win-x64?ver=v5.16.7)**
+&gt; 上述地址将指向 Win-x64 架构下载。</description><guid isPermaLink="true">https://mmirror.top/post/v5.16.7.html</guid><pubDate>Tue, 20 May 2025 17:43:30 +0000</pubDate></item><item><title>v5.16.6</title><link>https://mmirror.top/post/v5.16.6.html</link><description>## 更新日志 | Release Note
 &gt; MAA 更新时间 | 镜像更新时间
 &gt; --- | ---
 &gt; 2025-05-20 13:24:30+08:00 | 2025-05-20 13:44:44+08:00
@@ -687,7 +727,7 @@ If you encounter any unexpected behavior, please generate logs via [Settings] �
 国服新版 UI 导航系统已实装适配（注：第 15 章与 OF-1 因关卡结构特殊暂未支持导航），例如 `1-7`、`R8-11`、`12-17 磨难` 均支持自动导航到关卡。</description><guid isPermaLink="true">https://mmirror.top/post/v5.15.0.html</guid><pubDate>Sat, 12 Apr 2025 16:06:06 +0000</pubDate></item><item><title>公告</title><link>https://mmirror.top/post/gong-gao.html</link><description>## **Mirror酱** 介绍 (2025/02/27)
 **[Mirror酱](https://mirrorchyan.com)** 现为 MAA 提供 ***非免费*** 更新服务。</description><guid isPermaLink="true">https://mmirror.top/post/gong-gao.html</guid><pubDate>Sun, 02 Feb 2025 19:38:52 +0000</pubDate></item><item><title>资源更新</title><link>https://mmirror.top/post/zi-yuan-geng-xin.html</link><description>## 资源信息 | Resource Info
 - 资源版本: 矢量突破：无机物
-- 资源日期: 2025-05-14 18:07:00.704+08:00
+- 资源日期: 2025-05-15 19:07:00.705+08:00
 
 ## 下载地址 | Download
 &gt;[!IMPORTANT]
